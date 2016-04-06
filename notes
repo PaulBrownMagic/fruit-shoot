@@ -1,0 +1,15 @@
+
+Level:
+LevelNo
+PlayerName
+Score
+
+(Top Score = Max Score)
+
+Player:
+PlayerName
+Level Progress
+
+(Level Progress allows saved games)
+
+(Join will show players scores to compare against top scores)
